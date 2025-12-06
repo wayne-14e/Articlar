@@ -1,0 +1,7 @@
+{
+  "name": "Articlar",
+  "description": "An AI-powered app to practice for the IELTS Speaking test. Get instant feedback, a personalized study plan, and have real-time mock tests with Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

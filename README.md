@@ -1,4 +1,4 @@
-## Improve yout IELTS Speaking score with Articlar!
+## Improve yout IELTS Speaking 💬 score with Articlar 🚀!
 
 __Demo:__ ['https://articlar.netlify.app/']
 

@@ -2,7 +2,7 @@
 
 Articlar is a web-based IELTS Speaking practice platform designed to simulate real exam conditions and provide structured speaking practice using AI.
 
-🔗 **Live Demo:** https://articlar.netlify.app/
+🔗 **Live Demo:** https://articlar.vercel.app/
 
 ---
 
